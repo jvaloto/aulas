@@ -1,11 +1,3 @@
 linha 1
 Linha 2
 Linha 3
-
-<<<<<<< HEAD
-
-
-Dsadsadsa
-=======
-linha 4
->>>>>>> c9a8e22ac844d8dcf17bd4517d707b83373b56b1
