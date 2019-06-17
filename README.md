@@ -11,6 +11,10 @@ descrição do conteúdo inicial
 ####quatro jogos da velha
 
 * asterisco
+** 2 asteriscos
+*** 3 asteriscos
+
+* asterisco - asterisco *
 
 /* asterisco comentario */
 
