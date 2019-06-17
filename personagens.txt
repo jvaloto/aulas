@@ -8,3 +8,4 @@ Zoom
 Grod
 Reverse flash
 Mirror Master
+Animal
