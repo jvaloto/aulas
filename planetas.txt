@@ -2,6 +2,7 @@ Saturn
 Mercurio
 Terra
 Marte
-venus
+Venus
 Saturno
 Jupiter
+Plutão

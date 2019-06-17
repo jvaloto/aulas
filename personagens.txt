@@ -14,3 +14,5 @@ Spiderman
 Espantalho
 Bane
 Joker
+Snake
+Caçador de marte
