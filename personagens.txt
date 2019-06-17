@@ -11,3 +11,6 @@ Mirror Master
 Animal
 Robin
 Spiderman
+Espantalho
+Bane
+Joker
